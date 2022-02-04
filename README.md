@@ -23,7 +23,7 @@ And Some other features 🔥!
 
 - `APP_ID` - Your APP ID. Get it from [my.telegram.org](my.telegram.org)
 - `API_HASH` - Your API_HASH. Get it from [my.telegram.org](my.telegram.org)
-- `BOT_OWNER` - Your Telegram Account ID. Get it from [@szRose_bot](https://t.me/szRose_bot) (Start the bot and send <samp>/info</samp> command).
+- `BOT_OWNER` - Your Telegram Account ID. Get it from [@szRosebot](https://t.me/szRosebot) (Start the bot and send <samp>/info</samp> command).
 - `BOT_TOKEN` - Bot Token of Your Telegram Bot. Get it from [@BotFather](https://t.me/BotFather)
 - `MONGODB_URL` - Your MongoDB url,
 - `LOGS_CHANNEL` - Make a private channel and forward a message from that channel to [@ChannelidHEXbot](https://t.me/ChannelidHEXbot) to Get this. (Make sure to add Your bot to the channel as an admin)
