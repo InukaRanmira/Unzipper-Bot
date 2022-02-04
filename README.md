@@ -23,9 +23,9 @@ And Some other features 🔥!
 
 - `APP_ID` - Your APP ID. Get it from [my.telegram.org](my.telegram.org)
 - `API_HASH` - Your API_HASH. Get it from [my.telegram.org](my.telegram.org)
-- `BOT_OWNER` - Your Telegram Account ID. Get it from [@MissRose_bot](https://t.me/MissRose_bot) (Start the bot and send <samp>/info</samp> command).
+- `BOT_OWNER` - Your Telegram Account ID. Get it from [@szRose_bot](https://t.me/szRose_bot) (Start the bot and send <samp>/info</samp> command).
 - `BOT_TOKEN` - Bot Token of Your Telegram Bot. Get it from [@BotFather](https://t.me/BotFather)
-- `MONGODB_URL` - Your MongoDB url, Tutorial [here](https://www.youtube.com/watch?v=0aYrJTfYBHU)
+- `MONGODB_URL` - Your MongoDB url,
 - `LOGS_CHANNEL` - Make a private channel and forward a message from that channel to [@ChannelidHEXbot](https://t.me/ChannelidHEXbot) to Get this. (Make sure to add Your bot to the channel as an admin)
 
 </br>
@@ -74,7 +74,7 @@ bash start.sh
 
 ## Found a bug 🐞?
 
-If you found a bug in this bot please open an [issue](https://github.com/InukaRanmira/Unzipper-Bot/issues) or report it at the [Support Group](#support).
+If you found a bug in this bot please open an [issue](https://github.com/InukaRanmira/Unzipper-Bot/issues) or report it at the [Support Group](https://github.com/InukaRanmira/Unzipper-Bot#support-).
 
 </br>
 
